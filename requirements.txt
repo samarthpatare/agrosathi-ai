@@ -6,3 +6,4 @@ pypdf
 Pillow
 pytesseract
 Werkzeug
+gunicorn
