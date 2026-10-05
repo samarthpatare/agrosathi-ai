@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+requests
+groq
+pypdf
+Pillow
+pytesseract
+Werkzeug
